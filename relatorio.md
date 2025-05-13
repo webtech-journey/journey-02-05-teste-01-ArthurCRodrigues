@@ -1,15 +1,13 @@
 # 🧪 Relatório de Avaliação – Autograder HTML - ArthurCRodrigues
 
-**Data:** 13/05/2025 10:00
+**Data:** 13/05/2025 13:00
 
-**Nota Final:** `87.78/100`
+**Nota Final:** `96.67/100`
 **Status:** ✅ Aprovado
 
 ---
 ## ✅ Requisitos Obrigatórios (80%)
-- Foram encontrados `1` problemas nos requisitos obrigatórios. Veja abaixo os testes que falharam:
-  - ⚠️ **Falhou no teste**: `test_base.py::test_responsive_layout`
-    - **Melhoria sugerida**: O layout não utiliza a estrutura responsiva do Bootstrap. Utilize 'container', 'row' e 'col' corretamente.
+- Todos os requisitos básicos foram atendidos. Excelente trabalho!
 
 ## ⭐ Itens de Destaque (20%)
 - Você conquistou `5` bônus! Excelente trabalho nos detalhes adicionais!
