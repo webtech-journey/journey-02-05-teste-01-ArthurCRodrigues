@@ -1,5 +1,5 @@
 
-# 🌐 Atividade – Etapa 5: Página One Page de Apresentação Pessoa
+# 🌐 Atividade – Etapa 5: Página One Page de Apresentação Pessoal
 
 Para finalizarmos uma das etapas mais importantes dessa jornada, você criará um site de **uma única página (One Page)** de apresentação pessoal, utilizando conceitos essenciais de **HTML**, **CSS** e **Bootstrap**. Esta página será seu **cartão de visita profissional**, com foco em mostrar **suas habilidades, trajetória e aprendizados**.
 
